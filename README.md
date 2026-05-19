@@ -1,8 +1,8 @@
 # SmartStay_Project1_SAD_20252026
-<h1 align="center">🏡 Smart Homestay Rental System</h1>
+<h1 align="center">🏡 FlexRent Rental System</h1>
 
 <p align="center">
-  A web-based system developed for managing homestay bookings with smart features such as
+  A web-based system developed for managing venue bookings with smart features such as
   <b>dynamic pricing</b>, <b>smart matchmaker</b>, and <b>time-slot booking with buffer system</b>.
 </p>
 
@@ -10,9 +10,7 @@
 
 <h2>📌 Project Overview</h2>
 <p>
-  The Smart Homestay Rental System is designed to improve the process of booking and managing
-  homestay accommodations. The system allows seekers to search and book homestays based on
-  their preferences, while providers can manage listings, pricing, and availability more efficiently.
+The FlexRent Rental System is a web-based platform developed to simplify and improve the process of renting and managing various types of spaces. The system is designed to support multiple categories of rentable spaces such as wedding halls, event venues, meeting rooms, studios, sports facilities, homestays, shop lots, and other rental properties.
 </p>
 
 <h2>✨ Key Features</h2>
@@ -26,11 +24,11 @@
 
 <h2>👥 Team Members</h2>
 <ul>
-  <li><b>Qai</b> – Project Manager / System Analyst</li>
+  <li><b>Qaisara</b> – Project Manager / System Analyst</li>
   <li><b>Aimi</b> – UI/UX Designer</li>
-  <li><b>Am</b> – Backend Developer</li>
+  <li><b>Amny</b> – Backend Developer</li>
   <li><b>Karmila</b> – Frontend Developer</li>
-  <li><b>Budi</b> – Tester / Documentation</li>
+  <li><b>Budriah</b> – Tester / Documentation</li>
 </ul>
 
 <h2>🛠️ Project Scope</h2>
