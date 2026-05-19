@@ -10,7 +10,9 @@
 
 <h2>📌 Project Overview</h2>
 <p>
-The FlexRent Rental System is a web-based platform developed to simplify and improve the process of renting and managing various types of spaces. The system is designed to support multiple categories of rentable spaces such as wedding halls, event venues, meeting rooms, studios, sports facilities, homestays, shop lots, and other rental properties.
+  The FlexRent Rental System is a web-based platform developed to simplify and improve the process of renting and 
+  managing various types of spaces. The system is designed to support multiple categories of rentable spaces such 
+  as wedding halls, event venues, meeting rooms, studios, sports facilities, homestays, shop lots, and other rental properties.
 </p>
 
 <h2>✨ Key Features</h2>
